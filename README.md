@@ -8,7 +8,7 @@ Skills : C++, React, Bootstrap
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Time Managment 😊
 - 💬 Ask me about Operations System, Web Development, Data Structures
-- 📫 How to reach me: [Linkedin]( "Linkedin's Homepage") | [Github]( "Github's Homepage")
+- 📫 How to reach me: https://www.linkedin.com/in/mohit-puri-8a13ab1b9/ | [Github]( "Github's Homepage")
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
