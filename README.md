@@ -2,7 +2,7 @@
 ## I'm student at Chitkara University, Punjab currently pursuing B.Tech in Computer Science
 # Tech Entusiast | Student 
 
-Skills : C++, React, Bootstrap
+Skills : C++, React, Bootstrap, NodeJs
 
 - 🌱 I’m currently learning Full Stack
 - 👯 I’m looking to collaborate on open source projects
