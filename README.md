@@ -7,7 +7,7 @@ Skills : C++, React, Bootstrap, NodeJs
 - 🌱 I’m currently learning Full Stack
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Time Managment 😊
-- 💬 Ask me about Operations System, Web Development, Data Structures
+- 💬 Ask me about DBMS, Web Development, Data Structures
 - 😄 Pronouns: He/Him/His
 
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=Mohit0234&show_icons=true&hide_border=false)
