@@ -1,10 +1,10 @@
 ### Hi there 👋 my name is Mohit
-## I'm student at Chitkara University, Punjab currently pursuing B.Tech in Computer Science
+## Software Developer Intern
 # Tech Entusiast | Student 
 
 Skills : Java, Linux, SpringBoot, OOPS, SQL
 
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning Java Full Stack
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Time Managment 😊
 - 💬 Ask me about DBMS, Web Development, Data Structures
